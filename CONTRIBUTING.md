@@ -80,6 +80,7 @@ Pull requests should be as small/atomic as possible. Large, wide-sweeping change
     ```bash
     $ git fetch upstream
     $ git merge upstream/develop
+    cicd test
     ```
 
     See also the following article for further explanation on "[How to Keep a Downstream git Repository Current with Upstream Repository Changes](https://medium.com/sweetmeat/how-to-keep-a-downstream-git-repository-current-with-upstream-repository-changes-10b76fad6d97 "How to Keep a Downstream git Repository Current with Upstream Repository Changes")".
